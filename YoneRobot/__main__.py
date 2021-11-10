@@ -99,7 +99,7 @@ HELP_STRINGS = """
 `ʜɪ.. ɪ'ᴍ` [yone🙋‍♀️](https://te.legra.ph/file/0cd30b94a1ace82b85150.jpg) 
 `ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..`"""
 
-yone_IMG = "https://telegra.ph/file/7e61fe06a9c02747249c4.jpg"
+yone_IMG = "https://te.legra.ph/file/0cd30b94a1ace82b85150.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](#) or by contacting @kittu5588 \
